@@ -1,8 +1,8 @@
 ### `let shift : moin`
 
-**Moinuddin Ahmad** — iOS Developer & Designer.
+**Moinuddin Ahmad** — iOS Developer & Designer
 <br>
-Building motion-driven digital systems with zero dependencies.
+Building motion-driven digital systems with zero dependencies
 
 ---
 
@@ -10,7 +10,7 @@ Building motion-driven digital systems with zero dependencies.
 - 🔭 **Current Focus:** Native iOS Engineering (Swift / SwiftUI / SwiftData)
 - 🌱 **Architecture:** Clean Code, MV+Services, Design Systems
 - 📍 **Origin:** New York, NY
-- ⚡ **Philosophy:** _shift is standard // design is craft_
+- ⚡ **Axiom:** _shift is standard // design is craft_
 
 ### `// transmission`
 <a href="https://iamshift.dev">
