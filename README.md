@@ -7,10 +7,10 @@ Building motion-driven digital systems with zero dependencies.
 ---
 
 ### `// status`
-- 🔭 **Current Focus:** Native iOS Engineering (Swift / SwiftUI)
-- 🌱 **Architecture:** Clean Code, MV+Services, Vanilla Web Systems
+- 🔭 **Current Focus:** Native iOS Engineering (Swift / SwiftUI / SwiftData)
+- 🌱 **Architecture:** Clean Code, MV+Services, Design Systems
 - 📍 **Origin:** New York, NY
-- ⚡ **Philosophy:** _shift is standard; design is craft._
+- ⚡ **Philosophy:** _shift is standard // design is craft_
 
 ### `// transmission`
 <a href="https://iamshift.dev">
@@ -24,7 +24,7 @@ Building motion-driven digital systems with zero dependencies.
 </a>
 
 ### `// stack`
-`Swift` `SwiftUI` `Combine` `Python` `HTML5` `CSS3`
+`Swift` `SwiftUI` `SwiftData` `Adobe CC` `Figma` `HTML5/CSS3`
 
 ---
 <div align="center">
