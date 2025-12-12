@@ -18,7 +18,7 @@ Building motion-driven digital systems with zero dependencies
 </a>
 <a href="https://www.linkedin.com/in/initmoin/">
   <img src="https://img.shields.io/badge/LINKEDIN-Connect-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
+</a>&nbsp;
 <a href="https://iamshift.substack.com">
   <img src="https://img.shields.io/badge/SUBSTACK-Read-ff4e00?style=for-the-badge&logo=substack&logoColor=white" alt="Substack" />
 </a>
