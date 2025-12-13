@@ -1,8 +1,8 @@
 ### `let shift : moin`
 
-**Moinuddin Ahmad** — iOS Developer & Designer
+**Moinuddin Ahmad** — iOS Developer & Designer.
 <br>
-Building motion-driven digital systems with zero dependencies
+Building, for the user, thoughtful experiences that enrich their lives.
 
 ---
 
